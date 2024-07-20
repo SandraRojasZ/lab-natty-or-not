@@ -11,7 +11,7 @@ Olá pessoal, sou a Sandra e este é um projeto do curso de Fundamentos de IA pa
 ### A Força do Investidor - Guardiões da Economia
 
 ## 📒 Descrição
-É um projeto para meu podcast explorando IAs Generativas para criar conteúdos que sejma o mais realista possível. Eu produzi imagens, textos, vídeos ou combinações de tudo isso!
+É um projeto para meu podcast explorando IAs Generativas para criar conteúdos que sejam o mais realista possível. Eu produzi imagens, textos, vídeos ou combinações de tudo isso!
 
 ## 🤖 Tecnologias Utilizadas
 - [ChatGPT](https://chat.openai.com/) 
@@ -42,6 +42,7 @@ Criar algo 'natty' com IAs é um desafio porque se deve elaborar prompts adequad
   <a href="https://www.linkedin.com/in/sandra-zegarrundo">LinkedIn</a>
 </p>
 <br>
+
 ### Exemplos e Insigths
 
 - [E-BOOK](/exemplos/E-BOOK.md)
