@@ -6,7 +6,7 @@
 
 Olá pessoal, sou a Sandra e este é um projeto do curso de Fundamentos de IA para Devs! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
 
-### Podcast Gerado por I.A.s
+## Podcast Gerado por I.A.s
 
 ### A Força do Investidor - Guardiões da Economia
 
@@ -41,8 +41,7 @@ Criar algo 'natty' com IAs é um desafio porque se deve elaborar prompts adequad
   &nbsp;|&nbsp;
   <a href="https://www.linkedin.com/in/sandra-zegarrundo">LinkedIn</a>
 </p>
-<br><br>
-
+<br>
 ### Exemplos e Insigths
 
 - [E-BOOK](/exemplos/E-BOOK.md)
@@ -57,4 +56,4 @@ Criar algo 'natty' com IAs é um desafio porque se deve elaborar prompts adequad
 
 ---
 
-⌨️ com 💜 por [Sandra Rojas](https://github.com/SandraRojasZ)
+⌨️ com 💜 por [Sandra R. Z.](https://github.com/SandraRojasZ)
