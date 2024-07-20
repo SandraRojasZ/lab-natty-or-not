@@ -16,7 +16,7 @@ Olá pessoal, sou a Sandra e este é um projeto do curso de Fundamentos de IA pa
 ## 🤖 Tecnologias Utilizadas
 - [ChatGPT](https://chat.openai.com/) 
 - [Lexica](https://lexica.art/)
-- [BING]([https://www.bing.com/images/feed])
+- [BING](https://www.bing.com/images/feed)
 - [D-ID](https://www.d-id.com/)
 - [Answer The Public](https://answerthepublic.com/pt)
 
@@ -32,7 +32,6 @@ Olá pessoal, sou a Sandra e este é um projeto do curso de Fundamentos de IA pa
 
 ## 💭 Reflexão
 Criar algo 'natty' com IAs é um desafio porque se deve elaborar prompts adequados e fazer os ajustes para obter um contéudo mais realistico possível
-```
 
 ## 👨‍💻 Expert
 
