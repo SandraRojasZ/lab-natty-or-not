@@ -4,39 +4,45 @@
 
 > Woooow! Look at this 👀
 
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
+Olá pessoal, sou a Sandra e este é um projeto do curso de Fundamentos de IA para Devs! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
 
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
+### Podcast Gerado por I.A.s
 
-### Objetivos
-
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
-
-### Template
-
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+### A Força do Investidor - Guardiões da Economia
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+É um projeto para meu podcast explorando IAs Generativas para criar conteúdos que sejma o mais realista possível. Eu produzi imagens, textos, vídeos ou combinações de tudo isso!
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+- [ChatGPT](https://chat.openai.com/) 
+- [Lexica](https://lexica.art/)
+- [BING]([https://www.bing.com/images/feed])
+- [D-ID](https://www.d-id.com/)
+- [Answer The Public](https://answerthepublic.com/pt)
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+- Roteiro gerado via chatgpt
+- Lexica Art Para gerar capas
+- BING Imagens para gerar avatar
+- D-ID para adicionar o avatar e combinar o aúdio
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+- [Notion Template](https://www.notion.so/Podcast-IA-116d3ecab0ad40d3be43d17e25418f96?pvs=4)
+- [YouTube Studio](https://youtu.be/dx-jFePGafo)
 
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
+## 💭 Reflexão
+Criar algo 'natty' com IAs é um desafio porque se deve elaborar prompts adequados e fazer os ajustes para obter um contéudo mais realistico possível
 ```
+
+## 👨‍💻 Expert
+
+<p>
+  Sandra Rojas<br>
+  <a href="https://github.com/SandraRojasZ">GitHub</a>
+  &nbsp;|&nbsp;
+  <a href="https://www.linkedin.com/in/sandra-zegarrundo">LinkedIn</a>
+</p>
+<br><br>
 
 ### Exemplos e Insigths
 
@@ -49,3 +55,7 @@ Comente sobre o desafio de criar algo 'natty' com IA.
 [Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
 
 ![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
+
+---
+
+⌨️ com 💜 por [Sandra Rojas](https://github.com/SandraRojasZ)
